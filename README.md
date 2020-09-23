@@ -1,1 +1,6 @@
-# TV_Series-Subtitles
+# TV_Series-Subtitles crawl data using [BeautifulSoup](https://pypi.org/project/beautifulsoup4/) 
+## [The Big Bang Theory 12 seasons](https://transcripts.foreverdreaming.org/viewforum.php?f=159])
+## [Malcolm in the middle](https://en.wikipedia.org/wiki/Malcolm_in_the_Middle)
+## [Two and a half men](https://en.wikipedia.org/wiki/Two_and_a_Half_Men)
+## [I Love Lucy](https://en.wikipedia.org/wiki/I_Love_Lucy)
+## [That'70s show](https://en.wikipedia.org/wiki/That_%2770s_Show)
